@@ -31,7 +31,7 @@
 
 ## Пример
 
-![](/home/asavin/Desktop/University/MPIAA/RGZ-savin/images/example.webm)
+![](/home/asavin/Desktop/University/MPIAA/RGZ-savin/images/example.gif)
 
 
 
