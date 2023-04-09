@@ -31,6 +31,8 @@
 
 ## Пример
 
+(если картинка с примером не отображается, то можно посмотреть ее в папке images)
+
 ![](/home/asavin/Desktop/University/MPIAA/RGZ-savin/images/example.png)
 
 
